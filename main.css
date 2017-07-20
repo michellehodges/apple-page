@@ -35,8 +35,8 @@ li {
   background-position: center;
   height: 631px;
   width: 1284px;
-  background-position: center;
   margin-top: 50px;
+  background-size: cover;
 }
 
 .header-link {
@@ -60,5 +60,9 @@ li {
   font-weight: lighter;
 }
 
-.header-items {
+.header-links{
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+
 }
