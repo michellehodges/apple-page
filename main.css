@@ -1,0 +1,49 @@
+body {
+  background-color: black;
+  font-family: Arial, sans-serif;
+  margin: auto;
+  width: 1283px;
+  height: 682px;
+}
+
+ul {
+  color: white;
+  display: flex;
+  list-style: none;
+  padding-left: 0;
+  justify-content: space-around;
+  font-size: 14px;
+}
+
+.nav-ul {
+  background-color: 	#383838;
+  padding: 17px 102px;
+}
+
+li {
+}
+
+.header-content {
+  color: black;
+  text-align: center;
+  line-height: 50px;
+  margin-top: 125px;
+}
+
+.site-header {
+  background-image: url(/Users/mischy/Desktop/Day-3-Apple-website/img/iphone-background.jpg);
+  background-position: center;
+  height: 631px;
+  width: 1284px;
+  background-position: center;
+
+}
+
+.header-link {
+  color: black;
+  text-decoration: none;
+}
+
+.header-intro {
+  font-size: 20px;
+}
